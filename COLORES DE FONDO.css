@@ -1,0 +1,32 @@
+html, body {box-sizing: border-box; margin: 0; padding: 0;}
+body {font-family: 'Segoe UI', Arial, sans-serif; background-color: #ffffff; color: #000000; padding: 30px 15px;}
+.header {background-color: #ffffff; text-align: center; margin-bottom: 40px;}
+.header h1 {font-size: 40px; font-weight: 800; color: #0f172a; letter-spacing: 2px; text-transform: uppercase;}
+.grid-container {max-width: 950px; margin-bottom: 30px; overflow:hidden;}
+.row {display: block; width: 100%; clear:both;}
+.bg-box {box-sizing: border-box; float:left; width: 25%; min-height: 90px; padding: 12px 15px;}
+.bg-box h2 {font-size: 20px; font-weight: 700; color: #ffffff; margin-bottom: 4px;}
+.col-full {width: 100%;}
+.col-half {width: 50%;}
+.blue-gray-top {background-color: #0f172a;}
+.cool-gray {background-color: #2f363f;}
+.warm-gray {background-color: #78716c;}
+.amber {background-color: #b45309;}
+.green {background-color: #14532d;}
+.gray {background-color: #262626;}
+.red {background-color: #dc2626;}
+.yellow {background-color: #f1e429;}
+.emerald {background-color: #046c4e;}
+.true-gray {background-color: #3f3f46;}
+.orange {background-color: #ea580c;}
+.lime {background-color: #4d7c0f;}
+.teal {background-color: #0f766e;}
+.fuchsia {background-color: #c4197d;}
+.pink {background-color: #be185d;}
+.rose {background-color: #ce2b54;}
+.purple {background-color: #8b5cf6;}
+.violet {background-color: #a855f7;}
+.indigo {background-color: #4547b6;}
+.blue {background-color: #2152a1;}
+.sky {background-color: #028fd1;}
+.cyan {background-color: #023e49;}
